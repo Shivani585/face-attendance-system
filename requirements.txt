@@ -1,0 +1,20 @@
+# ─── Core Face Recognition ────────────────────────────────────────────────────
+face_recognition>=1.3.0          # Wraps dlib's ResNet face model
+dlib>=19.24.0                    # Underlying C++ library (compiled wheel recommended)
+
+# ─── Computer Vision ──────────────────────────────────────────────────────────
+opencv-python>=4.8.0             # Real-time camera capture + image processing
+
+# ─── Scientific Computing ─────────────────────────────────────────────────────
+numpy>=1.24.0                    # Array operations for encoding comparison
+
+# ─── Image Handling for Tkinter ───────────────────────────────────────────────
+Pillow>=10.0.0                   # PIL.ImageTk for displaying OpenCV frames in Tkinter
+
+# ─── Standard Library (no install needed) ────────────────────────────────────
+# tkinter  — bundled with Python
+# csv      — bundled with Python
+# json     — bundled with Python
+# pickle   — bundled with Python
+# logging  — bundled with Python
+# threading— bundled with Python
