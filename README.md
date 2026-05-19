@@ -1,3 +1,4 @@
+
 # 🎓 Face Recognition Attendance System
 
 > **Final-Year Mini Project** — Real-time face recognition for automated attendance management.  
@@ -228,3 +229,7 @@ MIT — free for academic and personal use.
 ---
 
 *Built as a Final-Year Mini Project demonstrating real-time computer vision, modular Python architecture, and GUI development.*
+
+# face-attendance-system
+Real-time Face Recognition Attendance System using Python, OpenCV and Flask
+
